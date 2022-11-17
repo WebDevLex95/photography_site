@@ -1,0 +1,14 @@
+.bg-img{
+    background-image: url(images/gidon-wessner-SZtLK_W7vKo-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 75vh;
+}
+.front{
+    text-align: left;
+    margin-top: 350px;
+    }
+    .second{
+        background-color: lightgray;
+        height: 25vh;
+    }
