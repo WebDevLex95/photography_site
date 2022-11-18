@@ -6,9 +6,18 @@
 }
 .front{
     text-align: left;
-    margin-top: 350px;
+    margin-top: 300px;
     }
   .first{
     background-color: beige;
-    height: 40vh;
+    height: 43vh;
+  }
+  .col{
+    font-size: 1.7rem;
+    padding-top: 5%;
+
+  }
+  .col1{
+    font-weight: bold;
+    padding-right: 5%;
   }
