@@ -2,7 +2,7 @@
     background-image: url(images/gidon-wessner-SZtLK_W7vKo-unsplash.jpg);
     background-position: center;
     background-size: cover;
-    height: 75vh;
+    height: 80vh;
 }
 .front{
     text-align: left;
@@ -19,5 +19,12 @@
   }
   .col1{
     font-weight: bold;
-    padding-right: 5%;
+    padding-right: 5%
+  }
+  h2{
+    font-size: 18px;
+    padding-bottom: 5%;
+  }
+  .btn{
+    padding: 5px;
   }
