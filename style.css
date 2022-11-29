@@ -12,6 +12,10 @@
     background-color: beige;
     height: 43vh;
   }
+  .second{
+    background-color: lightgray;
+    height: 100vh;
+  }
   .col{
     font-size: 1.7rem;
     padding-top: 5%;
