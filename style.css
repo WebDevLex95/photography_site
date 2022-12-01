@@ -14,7 +14,7 @@
   }
   .second{
     background-color: lightgray;
-    height: 100vh;
+    height: 120vh;
   }
   .col{
     font-size: 1.7rem;
@@ -23,7 +23,6 @@
   }
   .col1{
     font-weight: bold;
-    padding-right: 5%
   }
   h2{
     font-size: 18px;
@@ -31,4 +30,10 @@
   }
   .btn{
     padding: 5px;
+  }
+  .img{
+    display: inline-block;
+    height: 19rem;
+    width: fit-content;
+    padding-left: 2rem;
   }
