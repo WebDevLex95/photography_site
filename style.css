@@ -31,8 +31,11 @@
   .btn{
     padding: 5px;
   }
-  .img{
-    display: inline-block;
-    height: 19rem;
+  .img1{
+   height: 11em;
     width: fit-content;
   }
+.carousel-item{
+    height: 32rem;
+    position: absolute;
+}
