@@ -1,3 +1,4 @@
+
 .bg-img{
     background-image: url(images/gidon-wessner-SZtLK_W7vKo-unsplash.jpg);
     background-position: center;
@@ -44,4 +45,9 @@
 }
 .third{
     background-color: lightgray;
+}
+.icons{
+    color: blanchedalmond;
+    padding-top:5%;
+    
 }
