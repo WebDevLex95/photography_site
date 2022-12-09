@@ -28,8 +28,11 @@
     font-size: 18px;
     padding-bottom: 5%;
   }
-  .btn{
-    padding: 5px;
+  .btn1{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
   }
   .img1{
    height: 11em;
