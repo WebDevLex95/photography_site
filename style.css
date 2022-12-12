@@ -12,6 +12,7 @@
   .first{
     background-color: lightgrey;
     height: 43vh;
+    padding-left: 25px;
   }
   .second{
     background-color: whitesmoke;
