@@ -10,11 +10,11 @@
     margin-top: 300px;
     }
   .first{
-    background-color: beige;
+    background-color: lightgrey;
     height: 43vh;
   }
   .second{
-    background-color: lightgray;
+    background-color: whitesmoke;
     height: 120vh;
   }
   .col{
@@ -44,7 +44,7 @@
     position: absolute;
 }
 .third{
-    background-color: lightgray;
+    background-color: rgb(76, 72, 72);
 }
 .icons{
     color: blanchedalmond;
