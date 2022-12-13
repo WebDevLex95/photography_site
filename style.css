@@ -12,7 +12,8 @@
   .first{
     background-color: lightgrey;
     height: 43vh;
-    padding-left: 25px;
+    padding-left: 50px;
+    
   }
   .second{
     background-color: whitesmoke;
@@ -22,6 +23,9 @@
     font-size: 1.7rem;
     padding-top: 5%;
 
+  }
+  .col2{
+    font-size: 1.4rem;
   }
   .col1{
     font-weight: bold;
