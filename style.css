@@ -56,3 +56,34 @@
     padding-top:5%;
     
 }
+.row5{
+  height: auto;
+}
+.text1{
+  margin-bottom: 10px;
+  font-size: 50px;
+}
+.text2{
+margin-bottom: 150px;
+font-size: larger;
+
+}
+.email{
+  margin-bottom: 50px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.fifth{
+  text-align: left;
+  margin: auto;
+}
+.text5{
+  font-family: 'Times New Roman', Times, serif;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.text6{
+  margin-right: 30px;
+  margin-left: 30px;
+  font-weight: 700;
+}
