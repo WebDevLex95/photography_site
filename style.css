@@ -3,11 +3,10 @@
     background-image: url(images/gidon-wessner-SZtLK_W7vKo-unsplash.jpg);
     background-position: center;
     background-size: cover;
-    height: 80vh;
+    height: 90vh;
 }
 .front{
-    text-align: left;
-    margin-top: 300px;
+    padding-top: 20%;
     }
   .first{
     background-color: lightgrey;
@@ -25,7 +24,8 @@
 
   }
   .col2{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+
   }
   .col1{
     font-weight: bold;
@@ -35,6 +35,7 @@
     padding-bottom: 5%;
   }
   .btn1{
+    color: rgb(157, 70, 84);
     padding-left: 25px;
     padding-right: 25px;
     padding-bottom: 10px;
@@ -50,6 +51,7 @@
 }
 .third{
     background-color: rgb(76, 72, 72);
+    color: rgb(229, 101, 123);
 }
 .icons{
     color: blanchedalmond;
@@ -87,5 +89,11 @@ font-size: larger;
   margin-right: 30px;
   margin-left: 30px;
   font-weight: 700;
+}
+.text7{
+  border-bottom: solid;
+}
+.btn1{
+  border-radius: 15px;
 }
 
